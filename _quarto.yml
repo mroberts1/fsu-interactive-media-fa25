@@ -38,9 +38,12 @@ format:
     css: custom.scss
     self-contained: false
     grid:
-      body-width: 650px
+        # sidebar-width: 300px
+        body-width: 700px
+        # margin-width: 200px
+        # gutter-width: 2em
     linestretch: 1.5
-    fontsize: 1em
+    fontsize: 1.2em
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true
