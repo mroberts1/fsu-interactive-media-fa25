@@ -4,7 +4,7 @@ subtitle: "Bibliomania and the Social Life of Reading"
 toc: false
 ---
 
-[![](img/bookish.png)](https://shesbecomingbookish.com/)
+[![](img/polyducks.png)](https://shesbecomingbookish.com/)
 
 ::: column-margin
 <small>Jessica Maddox and Fiona Gill, "[Assembling 'Sides' of TikTok: Examining Community, Culture, and Interface through a BookTok Case Study](https://journals.sagepub.com/doi/epub/10.1177/20563051231213565)"<br><br>José M. Tomasena, "[Negotiating Collaborations: BookTubers, The Publishing Industry, and YouTube’s Ecosystem](https://journals.sagepub.com/doi/epub/10.1177/2056305119894004)"</small><br><br>
