@@ -1,0 +1,20 @@
+---
+title: Theory as Narrative
+toc: false
+---
+
+Byung-Chul Han, [**The Crisis of Narration**](https://www.politybooks.com/bookdetail?book_slug=the-crisis-of-narration--9781509560424) (Hoboken, NJ: Polity Press, 2024)
+
+<small>Originally published in German as _Die Krise der Narration_ (Berlin: MSB Matthes & Seitz Berlin Verlagsgesellschaft mbH, 2023).</small>
+
+***
+
+In his essay "The End of Theory", Chris Anderson, editor-in-chief of **WIRED** \[magazine - Ed.\], claims that incredibly large amounts of data make theories superfluous: ‘Today companies like Google, which have grown up in an era of massively abundant data, don’t have to settle for wrong models. Indeed, they don’t have to settle for models at all.’1 Human behaviour, he writes, can be precisely predicted and controlled with the help of data-driven psychology or sociology. The place of theory is taken by direct correlations between data:
+
+Out with every theory of human behavior, from linguistics to sociology. Forget taxonomy, ontology, and psychology. Who knows why people do what they do? The point is they do it, and we can track and measure it with unprecedented fidelity. With enough data, the numbers speak for themselves.
+
+But big data does not explain anything. Big data merely discloses correlations between things. Correlations are the most primitive form of knowledge. They do not allow us to understand anything. Big data cannot explain why things are correlated in the way they are. It does not establish causal or conceptual connections. The question "why?" is replaced with a non-conceptual "this-is-how-it-is".
+
+As a narrative, theory designs an order of things, setting them in relation to each other. Theory thereby explains why they behave the way they do. It develops conceptual contexts that make things intelligible. Unlike big data, theory offers us the highest form of knowledge: comprehension. Theory is a form of closure that takes hold of things and thereby makes them graspable. Big data, by contrast, is completely open. Theory, as a form of closure, comprises things within a conceptual framework and thus makes them graspable. The end of theory ultimately means the end of concept as spirit [*Begriff als Geist*]. Artificial intelligence can do without the conceptual. Intelligence is not spirit. Only spirit is capable of a reordering of things, of creating a new narrative. Intelligence computes and counts. Spirit, however, recounts. Data-driven human sciences [*Geisteswissenschaften*] are not sciences of spirit but data science. Data drive out spirit. Data-knowledge marks the degree zero of spirit. In a world saturated with data and information, our narrative capacity withers. Fewer theories are therefore formulated---no one wants to take the risk of putting forward a theory.
+
+***

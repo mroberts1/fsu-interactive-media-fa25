@@ -1,0 +1,56 @@
+project:
+  type: website
+  resources:
+    - "pdf/*.pdf"
+
+website:
+  title: "    "  
+  # sidebar:
+  #   search: false
+  #   style: "floating"
+  #   # collapse-level: 1
+  #   contents:
+  #       - section: "Lectures"
+  #         contents:
+  #           # Weekly lectures will be added as needed
+  #       - section: "Resources"
+  #         contents:
+  #           - text: Theory as Narrative
+  #             file: theory-narrative.qmd
+  navbar:
+    background: "#235440"
+    right:
+      - icon: github
+        aria-label: github
+        href: https://github.com/mroberts1/fsu-interactive-media-fa25
+      # - icon: twitter
+      #   aria-label: twitter
+      #   href: https://twitter.com/mroberts_fsu
+format:
+  html:
+    # toc: false
+    # toc-depth: 2
+    # toc-location: right
+    # toc-title: '   '
+    theme:
+      light: [ember.scss, custom_callouts.scss]
+      dark: [ember.scss, custom_callouts.scss, slate]
+    css: custom.scss
+    self-contained: false
+    grid:
+      body-width: 650px
+    linestretch: 1.5
+    fontsize: 1em
+    smooth-scroll: true
+    linkcolor: "#235440"
+    link-external-newwindow: true
+  PrettyPDF-pdf: default
+callout-appearance: default
+bread-crumbs: false
+fig-responsive: true
+image-alt: " "
+execute:
+  freeze: auto
+# reference-location: margin
+# citation-location: margin
+editor: visual
