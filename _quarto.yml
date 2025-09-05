@@ -5,18 +5,18 @@ project:
 
 website:
   title: "    "  
-  # sidebar:
-  #   search: false
-  #   style: "floating"
-  #   # collapse-level: 1
-  #   contents:
-  #       - section: "Lectures"
-  #         contents:
-  #           # Weekly lectures will be added as needed
-  #       - section: "Resources"
-  #         contents:
-  #           - text: Theory as Narrative
-  #             file: theory-narrative.qmd
+  sidebar:
+    search: false
+    style: "floating"
+    # collapse-level: 1
+    # contents:
+    #     - section: "Agendas"
+    #       contents:
+    #         # Weekly lectures will be added as needed
+        # - section: "Resources"
+        #   contents:
+        #     - text: Theory as Narrative
+        #       file: theory-narrative.qmd
   navbar:
     background: "#235440"
     right:
