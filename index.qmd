@@ -4,7 +4,7 @@ title: 'History of Interactive Media & Games'
 
 :::: {.content-visible when-format="html"}
 ::: {layout="[[50, 50]]"}
-![](img/escher-loop2.gif)
+[![](img/polyducks.gif)](https://polyducks.co.uk/archive/)
 
 <small>[Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
@@ -37,6 +37,8 @@ Instructor: Dr. Martin Roberts\
 [{{< fa regular envelope >}}](mailto:mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/)\
 :::
 ::::
+
+<small>"Shibuya Crossing Walkabout," Ben Jones ([Polyducks](https://polyducks.co.uk/))</small>
 
 ## Overview
 

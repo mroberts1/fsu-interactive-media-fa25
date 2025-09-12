@@ -59,4 +59,4 @@ execute:
   freeze: auto
 # reference-location: margin
 # citation-location: margin
-editor: visual
+editor: source
