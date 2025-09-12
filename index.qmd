@@ -55,35 +55,14 @@ This course examines the history and historiography of interactive media. Studen
 - Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. Simon & Schuster, 1995
 - Michele White. *Touch Screen Theory: Digital Devices and Feelings*. MIT Press, 2022.
 
-## Course Information
-
-**Platforms**\
-We'll be using Blackboard for submitting assignments ONLY. For discussion, we will be using [Discord](https://discord.gg/GUSz99EP).
-
-On Discord, if you don't already have an account, please set one up using your Fitchburg State University email address as ID.
-
-If you already have a Discord account there will be problems setting up an account for the course because each account has to be tied to a different phone number, so you will not be able to use your regular phone number for verification. For this reason, you may use your existing account, but if you use a pseudonym please let me know what this is so I know who you are!
-
-Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week.
-
 ## Assignments / Evaluation
 
--   **Review**: 6, weekly from Week 1, one short post responding to at least one of the readings, 250 words (maximum), due by Sunday (15%)\
--   **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., due by the *following* Sunday (15%)\
--   **Commentary**: 2 short papers, 1000 words, due Sunday of Week 3 and Week 5 (20%)\
--   **Keywords**: 500-750 words on a key concept in social media theory, with bibliography/references, due Sunday of Week 4 (25%)\
--   **Platform Case Study**: 2,000 words, due Sunday of Week 7 (25%)
+- **Commentary** (Blackboard or Canvas, weekly, 10 required: 100-250-word response to reading/screening assignments): 30%
+- **Interactions Panel** (in-class, from week 4; 2-3 students, 15-20 minutes, with accompanying materials, joint grade): 15%
+- **Interactions Analysis Paper** (1,000 words / 4 pages double-spaced; due one week after in-class presentation): 20%
+- **Special Interest Group (SIG) Paper** (open topic) (1,000 words, 4 pages double-spaced, not including bibliography, letter grade): 20%
+- **Special Interest Group (SIG) Presentation** (in-class): 15%
 
-**Discussion: Agenda, Review, Reply Posts**\
-For Weeks 1-6, each of the weekly topics will be active across a cycle of two weeks.
-
-In the first week, complete the reading assignments and make an initial response post called a Review, with question and/or comments on them, by Sunday of the week in question.
-
-**Commentary Papers**\
-
-
-**Platform Case Study**\
-The culminating written assignment for the course (2,000 words) may consist of a research paper or report.
 ## Schedule
 
 *Week 1* F 09/05
@@ -98,44 +77,50 @@ Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology a
 
 **Adventure Games**
 
-- Nick Montfort, "Adventure and Its Ancestors" (in *Twisty Little Passages*)
-- Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “Zork: A Computerized Fantasy Simulation Game” (*IEEE Computer*, April 1979, pp. 51–59)
+- Nick Montfort, "[Adventure and Its Ancestors](pdf/nick-montfort-adventure.pdf)" (*Twisty Little Passages*, ch. 3)
+- Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “[Zork: A Computerized Fantasy Simulation Game](https://mud.co.uk/richard/zork.htm)” (*IEEE Computer*, April 1979, pp. 51–59)
 
 ***
 
 *Week 3* F 09/19
 
-**Console-ing Passsions**
+**Hyperfiction**
 
-- Jesper Juul, selected chs. from _Too Much Fun: The Five Lives of the Commodore 64
+- Nick Montfort, "[Zork and other Mainframe Works](pdf/nick-montfort-zork.pdf)" (*Twisty Little Passages*, ch. 4)
+- TWINE
 
 ***
 
 Week 4* F 09/26
 
-**Hyperfiction**
+**Chatbots: A Brief History**
 
-- Nick Montfort, selected chs. from *Twisty Little Passages*
-- TWINE projects
+- Sherry Turkle, selected chs. from *Life on the Screen*
+- ELIZA
+
+**Interactions Panel 1**
 
 ***
 
 *Week 5* F 10/03
 
-**Chatbots: A Brief History**
+**Habitat: Democracy in Cyberspace**
 
-- Sherry Turkle, selected chs. from *Life on the Screen
-- ELIZA
+- Chip Morningstar and F. Randall Farmer, “[The Lessons of Lucasfilm’s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)” (in *Cyberspace: First Steps*, edited by Michael Benedikt, MIT Press, 1991, pp. 273–300)
+- Dibbell, Julian. “[A Rape in Cyberspace.](-  [https://www.juliandibbell.com/texts/a-rape-in-cyberspace](https://www.juliandibbell.com/texts/a-rape-in-cyberspace))” *The Village Voice*, December 21, 1993.
+- Martin Roberts et al., [*Democracy in Cyberspace*](https://dokoissho.sdf.org/mit/commforum/). MIT Communications Forum, 1994.
+
+**Interactions Panel 2**
 
 ****
 
 *Week 6* F 10/10
 
-**Habitats: Democracy in Cyberspace**
+**Myst**
 
-- Chip Morningstar and F. Randall Farmer, “[The Lessons of Lucasfilm’s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)” (in *Cyberspace: First Steps*, edited by Michael Benedikt, MIT Press, 1991, pp. 273–300)
-- Dibbell, Julian. “[A Rape in Cyberspace.](-  [https://www.juliandibbell.com/texts/a-rape-in-cyberspace](https://www.juliandibbell.com/texts/a-rape-in-cyberspace))” *The Village Voice*, December 21, 1993.
-- Martin Roberts et al., [*Democracy in Cyberspace*](https://dokoissho.sdf.org/mit/commforum/). MIT Communications Forum, 1994.
+Reading TBA
+
+**Interactions Panel 3**
 
 ***
 
@@ -143,58 +128,82 @@ Week 4* F 09/26
 
 **Second Lives**
 
-Thomas Malaby, selected chs. from _Making Virtual Worlds
+- Thomas Malaby, selected chs. from *Making Virtual Worlds*
+
+**Interactions Panel 4**
+
 ***
 
 *Week 8* F 10/24
 
-**VRChat**
+**Infinite Database**
 
-Screening: [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (documentary, Joe Hunting, 2022)
+- *Cyberpunk 2077*
+
+**Interactions Panel 5**
 
 ***
 
 *Week 9* F 10/31
 
-**Interpassive Aggressive**
+**VRChat**
 
-Robert Pfaller, selected chs. from *Interpassivity*
+- Screening: [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (documentary, Joe Hunting, 2022)
+
+**Interactions Panel 6**
 
 ***
 
 *Week 10* F 11/07
 
-**Tap, Pinch, Swipe: Touchscreens**
+**Interpassive Aggressive**
 
-Michele White, selected chs. from *Touch Screen Theory
+Robert Pfaller, selected chs. from *Interpassivity*
+
+**Interactions Panel 7**
 
 ***
 
 *Week 11* F 11/14
 
-**Audioreactive: Generative Interactivity**  
+**Tap, Pinch, Swipe: Touchscreens**
 
-DayDream
+Michele White, selected chs. from *Touch Screen Theory*
+
+**Interactions Panel 8**
 
 ***
 
 *Week 12* F 11/21
 
+**Audioreactive: Generative Interactivity**  
 
-
-***
-
-*Week 13* F 12/05
-
-Presentations
+DayDream and other generative tools
 
 ***
 
-*Week 14* W 12/10 Last day of classes
-	    R 12/11 Reading Day
-        F 12/12-18 Exam period
+*Week 13* F 11/28
+
+NO CLASS (Thanksgiving)
+
+***
+
+*Week 14* F 12/05
+
+SIG Presentations
+
+**DEADLINE: Special Interest Group (SIG) presentations**
+
+***
+
+*Week 15* 
+
+W 12/10 Last day of classes  
+R 12/11 Reading Day  
+F 12/12-18 Exam period  
   
-  ***
+***
+  
 ## Policies
 
 *Late Policy*

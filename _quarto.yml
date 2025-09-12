@@ -8,21 +8,24 @@ website:
   sidebar:
     search: false
     style: "floating"
-    # collapse-level: 1
-    # contents:
-    #     - section: "Agendas"
-    #       contents:
-    #         # Weekly lectures will be added as needed
+    collapse-level: 0
+    contents:
+        - text: Home
+          file: index.qmd 
+        - section: "Agendas"
+          contents:
+              - text: W1 Introduction
+                file: w1-intro.qmd
         # - section: "Resources"
         #   contents:
         #     - text: Theory as Narrative
         #       file: theory-narrative.qmd
   navbar:
     background: "#235440"
-    right:
-      - icon: github
-        aria-label: github
-        href: https://github.com/mroberts1/fsu-interactive-media-fa25
+    # right:
+    #   - icon: github
+    #     aria-label: github
+    #     href: https://github.com/mroberts1/fsu-interactive-media-fa25
       # - icon: twitter
       #   aria-label: twitter
       #   href: https://twitter.com/mroberts_fsu
@@ -43,7 +46,7 @@ format:
         # margin-width: 200px
         # gutter-width: 2em
     linestretch: 1.5
-    fontsize: 1.2em
+    fontsize: 1.1em
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true

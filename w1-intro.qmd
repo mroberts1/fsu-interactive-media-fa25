@@ -1,0 +1,21 @@
+---
+title: "    "
+---
+
+## Interactivity: One Definition
+
+> I don't want to make this a paradise-lost story, but the truth is that the definitions of interactivity used by the early researchers at MIT possessed a certain poignancy that seems to have become lost in the commercial translation. One of the best definitions was set forth by Andy Lippman, who described interaction as mutual and simultaneous activit on the part of both participants, usually working toward some goal---but, he added, not necessarily. Note that from the beginning of interaction research the idea of a common goal was already in question, and in that fact inheres interaction's vast ludic dimension.
+>
+> There are five corollaries to Lippman's definition. One is **mutual interruptibility**, which means that each participant must be able to interrupt the other, mutually and simultaneously. Interaction, therefore, implies conversation, a complex back-and-forth exchange, the goal of which may change as the conversation unfolds.
+>
+> The second is **graceful degradation**, which means that unanswerable questions must be handled in a way that doesn't halt the conversation: "I'll come back to that in a minute," for example.
+>
+> The third is **limited look-ahead**, which means that because both parties can be interrupted there is a limit to how much of the shape of the conversation can be anticipated by either party.
+>
+> The fourth is **no-default**, which means that the conversation must not have a pre-planned path; it must develop fully in the interaction.
+>
+> The fifth, which applies more directly to immersive environments (in which the human participant is surrounded by the simulation of a world), is that the participants should have the impression of an **infinite database**. This principle means that an immersive interactional world should give the illusion of not being much more limiting in the choices it offers than an actual world would be. In a nonimmersive context, the machine should give the impression of having about as much knowledge of the world as you do, but not necessarily more. This limitation is intended to deal with the Spock phenomenon, in which more information is sometimes offered than is conversationally appropriate.
+
+> Thus interactivity implies two conscious agencies in conversation, playfully and spontaneously developing a mutual discourse, taking cues and suggestions from each other as they proceed.
+
+<small>---Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology at the Close of the Mechanical Age*): 10-11.</small>
