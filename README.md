@@ -1,6 +1,6 @@
 # COMM 2003 History of Interactive Media & Games
 
-![](img/escher-loop2.gif)
+![](img/polyducks.gif)
 
 [Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
@@ -15,45 +15,26 @@ This course examines the history and historiography of interactive media. Studen
 
 ## Objectives
 
-## Course Texts
+## Sources
 
--   Ian Bogost and Nick Montfort. *Racing the Beam: The Atari Video Computer System*. MIT Press, 2009.
--   Jesper Juul. *Too Much Fun: The Five Lives of the Commodore 64 Computer*. MIT Press, 2024.
--   Thomas M. Malaby. *Making Virtual Worlds: Linden Lab and Second Life*. Cornell University Press, 2009.
--   Nick Montfort. *Twisty Little Passages: An Approach to Interactive Fiction.* MIT Press, 2005.
--   Robert Pfaller. *Interpassivity: The Aesthetics of Delegated Enjoyment*. Edinburgh University Press, 2017.
--   Allucquère Rosanne Stone. *The War of Desire and Technology at the Close of the Mechanical Age*. MIT Press, 1995.
--   Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. Simon & Schuster, 1995
--   Michele White. *Touch Screen Theory: Digital Devices and Feelings*. MIT Press, 2022.
-
-## Course Information
-
-**Platforms**\
-We'll be using Blackboard for submitting assignments ONLY. For discussion, we will be using [Discord](https://discord.gg/GUSz99EP).
-
-On Discord, if you don't already have an account, please set one up using your Fitchburg State University email address as ID.
-
-If you already have a Discord account there will be problems setting up an account for the course because each account has to be tied to a different phone number, so you will not be able to use your regular phone number for verification. For this reason, you may use your existing account, but if you use a pseudonym please let me know what this is so I know who you are!
-
-Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week.
+- Ian Bogost and Nick Montfort. *Racing the Beam: The Atari Video Computer System*. MIT Press, 2009.
+- Jesper Juul. _Too Much Fun: The Five Lives of the Commodore 64 Computer_. MIT Press, 2024.
+- Thomas M. Malaby. _Making Virtual Worlds: Linden Lab and Second Life_. Cornell University Press, 2009.
+- Nick Montfort. *Twisty Little Passages: An Approach to Interactive Fiction.* MIT Press, 2005.
+- Robert Pfaller. _Interpassivity: The Aesthetics of Delegated Enjoyment_. Edinburgh University Press, 2017.
+- Allucquère Rosanne Stone. *The War of Desire and Technology at the Close of the Mechanical Age*. MIT Press, 1995.
+- Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. Simon & Schuster, 1995
+- Michele White. *Touch Screen Theory: Digital Devices and Feelings*. MIT Press, 2022.
 
 ## Assignments / Evaluation
 
--   **Review**: 6, weekly from Week 1, one short post responding to at least one of the readings, 250 words (maximum), due by Sunday (15%)\
--   **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., due by the *following* Sunday (15%)\
--   **Commentary**: 2 short papers, 1000 words, due Sunday of Week 3 and Week 5 (20%)\
--   **Keywords**: 500-750 words on a key concept in social media theory, with bibliography/references, due Sunday of Week 4 (25%)\
--   **Platform Case Study**: 2,000 words, due Sunday of Week 7 (25%)
+- **Commentary** (Blackboard or Canvas, weekly, 10 required: 100-250-word response to reading/screening assignments): 30%
+- **Interactions Panel** (in-class, from week 4; 2-3 students, 15-20 minutes, with accompanying materials, joint grade): 15%
+- **Interactions Analysis Paper** (1,000 words / 4 pages double-spaced; due one week after in-class presentation): 20%
+- **Special Interest Group (SIG) Paper** (open topic) (1,000 words, 4 pages double-spaced, not including bibliography, letter grade): 20%
+- **Special Interest Group (SIG) Presentation** (in-class): 15%
 
-**Discussion: Agenda, Review, Reply Posts**\
-For Weeks 1-6, each of the weekly topics will be active across a cycle of two weeks.
-
-In the first week, complete the reading assignments and make an initial response post called a Review, with question and/or comments on them, by Sunday of the week in question.
-
-**Commentary Papers**\
-
-**Platform Case Study**\
-The culminating written assignment for the course (2,000 words) may consist of a research paper or report. \## Schedule
+## Schedule
 
 *Week 1* F 09/05
 
@@ -61,105 +42,139 @@ Introduction: Graceful Degradation
 
 Sandy Stone, "Sex, Death, and Machinery" (in *The War of Desire and Technology at the Close of the Mechanical Age*)
 
-------------------------------------------------------------------------
+***
 
 *Week 2* F 09/12
 
 **Adventure Games**
 
--   Nick Montfort, "Adventure and Its Ancestors" (in *Twisty Little Passages*)
--   Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “Zork: A Computerized Fantasy Simulation Game” (*IEEE Computer*, April 1979, pp. 51–59)
+- Nick Montfort, "[Adventure and Its Ancestors](pdf/nick-montfort-adventure.pdf)" (*Twisty Little Passages*, ch. 3)
+- Lebling, P. David, Marc S. Blank, and Timothy A. Anderson, “[Zork: A Computerized Fantasy Simulation Game](https://mud.co.uk/richard/zork.htm)” (*IEEE Computer*, April 1979, pp. 51–59)
 
-------------------------------------------------------------------------
+***
 
 *Week 3* F 09/19
 
-**Console-ing Passsions**
-
--   Jesper Juul, selected chs. from \_Too Much Fun: The Five Lives of the Commodore 64
-
-------------------------------------------------------------------------
-
-Week 4\* F 09/26
-
 **Hyperfiction**
 
--   Nick Montfort, selected chs. from *Twisty Little Passages*
--   TWINE projects
+- Nick Montfort, "[Zork and other Mainframe Works](pdf/nick-montfort-zork.pdf)" (*Twisty Little Passages*, ch. 4)
+- TWINE
 
-------------------------------------------------------------------------
+***
 
-*Week 5* F 10/03
+Week 4* F 09/26
 
 **Chatbots: A Brief History**
 
--   Sherry Turkle, selected chs. from \*Life on the Screen
--   ELIZA
+- Sherry Turkle, selected chs. from *Life on the Screen*
+- ELIZA
 
-------------------------------------------------------------------------
+**Interactions Panel 1**
+
+***
+
+*Week 5* F 10/03
+
+**Habitat: Democracy in Cyberspace**
+
+- Chip Morningstar and F. Randall Farmer, “[The Lessons of Lucasfilm’s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)” (in *Cyberspace: First Steps*, edited by Michael Benedikt, MIT Press, 1991, pp. 273–300)
+- Dibbell, Julian. “[A Rape in Cyberspace.](-  [https://www.juliandibbell.com/texts/a-rape-in-cyberspace](https://www.juliandibbell.com/texts/a-rape-in-cyberspace))” *The Village Voice*, December 21, 1993.
+- Martin Roberts et al., [*Democracy in Cyberspace*](https://dokoissho.sdf.org/mit/commforum/). MIT Communications Forum, 1994.
+
+**Interactions Panel 2**
+
+****
 
 *Week 6* F 10/10
 
-**Habitats: Democracy in Cyberspace**
+**Myst**
 
--   Chip Morningstar and F. Randall Farmer, “[The Lessons of Lucasfilm’s Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)” (in *Cyberspace: First Steps*, edited by Michael Benedikt, MIT Press, 1991, pp. 273–300)
--   Dibbell, Julian. “[A Rape in Cyberspace.](-%20%5Bhttps://www.juliandibbell.com/texts/a-rape-in-cyberspace%5D(https://www.juliandibbell.com/texts/a-rape-in-cyberspace))” *The Village Voice*, December 21, 1993.
--   Martin Roberts et al., [*Democracy in Cyberspace*](https://dokoissho.sdf.org/mit/commforum/). MIT Communications Forum, 1994.
+Reading TBA
 
-------------------------------------------------------------------------
+**Interactions Panel 3**
+
+***
 
 *Week 7* F 10/17
 
 **Second Lives**
 
-Thomas Malaby, selected chs. from \_Making Virtual Worlds \*\*\*
+- Thomas Malaby, selected chs. from *Making Virtual Worlds*
+
+**Interactions Panel 4**
+
+***
 
 *Week 8* F 10/24
 
-**VRChat**
+**Infinite Database**
 
-Screening: [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (documentary, Joe Hunting, 2022)
+- *Cyberpunk 2077*
 
-------------------------------------------------------------------------
+**Interactions Panel 5**
+
+***
 
 *Week 9* F 10/31
+
+**VRChat**
+
+- Screening: [*We Met in Virtual Reality*](https://joeahunting.com/we-met-in-virtual-reality) (documentary, Joe Hunting, 2022)
+
+**Interactions Panel 6**
+
+***
+
+*Week 10* F 11/07
 
 **Interpassive Aggressive**
 
 Robert Pfaller, selected chs. from *Interpassivity*
 
-------------------------------------------------------------------------
+**Interactions Panel 7**
 
-*Week 10* F 11/07
-
-**Tap, Pinch, Swipe: Touchscreens**
-
-Michele White, selected chs. from \*Touch Screen Theory
-
-------------------------------------------------------------------------
+***
 
 *Week 11* F 11/14
 
-**Audioreactive: Generative Interactivity**
+**Tap, Pinch, Swipe: Touchscreens**
 
-DayDream
+Michele White, selected chs. from *Touch Screen Theory*
 
-------------------------------------------------------------------------
+**Interactions Panel 8**
+
+***
 
 *Week 12* F 11/21
 
-------------------------------------------------------------------------
+**Audioreactive: Generative Interactivity**  
 
-*Week 13* F 12/05
+DayDream and other generative tools
 
-Presentations
+***
 
-------------------------------------------------------------------------
+*Week 13* F 11/28
 
-*Week 14* W 12/10 Last day of classes R 12/11 Reading Day F 12/12-18 Exam period
+NO CLASS (Thanksgiving)
 
-------------------------------------------------------------------------
+***
 
+*Week 14* F 12/05
+
+SIG Presentations
+
+**DEADLINE: Special Interest Group (SIG) presentations**
+
+***
+
+*Week 15* 
+
+W 12/10 Last day of classes  
+R 12/11 Reading Day  
+F 12/12-18 Exam period  
+  
+***
+  
 ## Policies
 
 *Late Policy*
@@ -188,7 +203,8 @@ The Counseling Services Office offers a range of services including individual, 
 
 FAVE collaborates with a number of community partners (e.g., YWCA Domestic Violence Services, Pathways for Change) to meet our training needs and to link survivors with community based resources. This site also features [resources](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Ffitchburg-anti-violence-education%2Ffitchburg-anti-violence-education-resources%2F&sa=D&sntz=1&usg=AFQjCNF9KZ2O1AvPMLJTHdNg1DfmYYtgog) for help or information about dating violence, domestic violence, sexual assault and stalking. If you or someone you know is in an abusive relationship or has been a victim of sexual assault, there are many places to go for help. Many can be accessed 24 hours a day, seven days a week, 365 days a year. On campus, free and confidential support is provided at both Counseling Services and Health Services.
 
-**Community Food Pantry**  Food insecurity is a growing issue and it certainly can affect student learning. The ability to have access to nutritious food is incredibly vital. The Falcon Bazaar, located in Hammond G 15, is stocked with food, basic necessities, and can provide meal swipes to support all Fitchburg State students experiencing food insecurity for a day or a semester.
+**Community Food Pantry**\ 
+Food insecurity is a growing issue and it certainly can affect student learning. The ability to have access to nutritious food is incredibly vital. The Falcon Bazaar, located in Hammond G 15, is stocked with food, basic necessities, and can provide meal swipes to support all Fitchburg State students experiencing food insecurity for a day or a semester.
 
 The university continues to partner with Our Father's House to support student needs and access to food and services. All Fitchburg State University students are welcome at the Our Father's House Community Food Pantry. This Pantry is located at the Faith Christian Church at 40 Boutelle St., Fitchburg, MA and is open from 5-7pm. Each "household" may shop for nutritious food once per month by presenting a valid FSU ID.
 
